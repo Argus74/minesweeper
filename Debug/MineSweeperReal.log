@@ -1,0 +1,12 @@
+﻿  Main.cpp
+E:\CPLusPLus\MineSweeperReal\Main.cpp(231,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\CPLusPLus\MineSweeperReal\Main.cpp(231,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  MineSweeperReal.vcxproj -> E:\CPLusPLus\MineSweeperReal\Debug\MineSweeperReal.exe
